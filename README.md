@@ -1,1 +1,1 @@
-# statistics-for-people-who-hate-statistics-exercise
+# statistics-for-people-who-hate-statistics-solutions
